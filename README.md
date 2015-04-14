@@ -351,10 +351,7 @@ dlsym函数原型:<br>
 ####十.detach
 
 	ptrace_detach(target_pid);
-##总结
-本篇只是分析最基本的注入流程，这是最基本也是最重要的，只有进入到了目标进程才能做接下来的事情。
-##示例代码
-<https://github.com/yangbean9/injectDemo>
+
 
 ##参考资料
 <http://blog.csdn.net/jinzhuojun/article/details/9900105>
